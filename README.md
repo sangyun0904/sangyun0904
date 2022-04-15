@@ -1,4 +1,14 @@
-### Hi there 👋
+# Sang Yoon Kim 😃
+Industrial System Engineering & Data Science | Dongguk Univ
+
+## ⚡ Technologies
+- Data science and Machine Learning algorithms using **Python3** 
+- Front-end development using **HTML, CSS, Javascript**
+- Backend development using **NodeJS, Spring**
+- Mobile application development using **Android (Java or Kotlin)**
+
+## 📫 Contact Me
+- email - sangyun0904@gmail.com
 
 <!--
 **sangyun0904/sangyun0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
