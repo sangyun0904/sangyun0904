@@ -1,6 +1,10 @@
 # Sang Yoon Kim 😃
 Industrial System Engineering & Data Science | Dongguk Univ
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangyun0904&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangyun0904&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## ⚡ Technologies
 - Data science and Machine Learning algorithms using **Python3** 
 - Front-end development using **HTML, CSS, Javascript**
@@ -24,7 +28,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangyun0904&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangyun0904&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
