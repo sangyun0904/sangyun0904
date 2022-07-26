@@ -11,11 +11,11 @@ Industrial System Engineering & Data Science | Dongguk Univ
 - Backend development using **NodeJS, Spring**
 - Mobile application development using **Android (Java or Kotlin)**
 
-## 📫 Contact Me
-- email - sangyun0904@gmail.com
-
 ## 🗓 BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangyun0904)](https://solved.ac/sangyun0904/)
+
+## 📫 Contact Me
+- email - sangyun0904@gmail.com
 
 <!--
 **sangyun0904/sangyun0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
