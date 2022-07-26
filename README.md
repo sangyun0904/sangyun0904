@@ -14,6 +14,9 @@ Industrial System Engineering & Data Science | Dongguk Univ
 ## 📫 Contact Me
 - email - sangyun0904@gmail.com
 
+## 🗓 BOJ
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangyun0904)](https://solved.ac/sangyun0904/)
+
 <!--
 **sangyun0904/sangyun0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
