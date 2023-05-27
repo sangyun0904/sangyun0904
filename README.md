@@ -6,9 +6,7 @@ Industrial System Engineering & Data Science | Dongguk Univ
 
 ## ⚡ Technologies
 - Data science and Machine Learning algorithms using **Python3** 
-- Front-end development using **HTML, CSS, Javascript**
-- Backend development using **Spring, django, AWS**
-- Mobile application development using **Android (Java or Kotlin)**
+- Backend development using **Spring boot, expressjs, AWS**
 - Database development using **Mysql**
 
 ## 🗓 BOJ
